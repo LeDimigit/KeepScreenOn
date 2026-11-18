@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scherm aan houden</string>
+    <string name="toast_on">Scherm blijft aan</string>
+    <string name="toast_off">Schermtime-out hersteld</string>
+    <string name="toast_permission">Sta «Systeeminstellingen wijzigen» toe en open de app opnieuw</string>
+</resources>

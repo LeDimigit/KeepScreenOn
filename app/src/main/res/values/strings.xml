@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Keep Screen On</string>
+    <string name="toast_on">Screen will stay on</string>
+    <string name="toast_off">Screen timeout restored</string>
+    <string name="toast_permission">Allow “Modify system settings”, then open the app again</string>
+</resources>

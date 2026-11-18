@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gardez l’écran allumé</string>
+    <string name="toast_on">L’écran restera allumé</string>
+    <string name="toast_off">Veille normale rétablie</string>
+    <string name="toast_permission">Autorisez « Modifier les paramètres système », puis relancez l’application</string>
+</resources>
